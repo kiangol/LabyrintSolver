@@ -1,5 +1,5 @@
-# LabyrintSolver
-Labyrint solver with JavaFX GUI
+# LabyrinthSolver
+Labyrinth solver with JavaFX GUI
 
 ## Requirements
 Requires JavaFX which is included in JDK 8. Newer versions of JDK require separate JavaFX install.
